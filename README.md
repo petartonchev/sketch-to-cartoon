@@ -15,4 +15,4 @@ A major mistake was that we didn't noticed on time that the resulting edges were
 
 ## Ranking
 
-With this project we won 3rd place in the StudentHack VII hackathon.
+With this project we won **3rd** place in the StudentHack VII hackathon.
